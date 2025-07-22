@@ -1,1 +1,1 @@
-# CryptoPredict
+# Welcome to your Lovable Project!
